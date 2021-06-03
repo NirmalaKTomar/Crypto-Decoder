@@ -1,6 +1,6 @@
 # 
 
-Access simulator-https://sites.google.com/dtu.ac.in/cnnproject/decoder
+Access decoder-https://sites.google.com/dtu.ac.in/cnnproject/decoder
 
 Learn more-https://sites.google.com/dtu.ac.in/cnnproject/home
 
